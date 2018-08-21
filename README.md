@@ -1,24 +1,14 @@
-# README
+# Startup Kebab trop d'la balle
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Réalisation d'une tb et d'un carousel 
 
-Things you may want to cover:
+Lien de l'application : https://secret-tundra-12601.herokuapp.com
 
-* Ruby version
+En local : 
+- git clone 
+- bundle install
+-rails s
+- aller sur le serveur local
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
