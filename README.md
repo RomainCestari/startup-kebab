@@ -1,6 +1,6 @@
 # Startup Kebab trop d'la balle
 
-# Réalisation d'une tab et d'un carousel 
+Réalisation d'une tab et d'un carousel 
 
 Lien de l'application : https://secret-tundra-12601.herokuapp.com
 
