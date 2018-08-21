@@ -1,4 +1,4 @@
-# Startup Kebab trop d'la balle
+# Startup Kebab
 
 Réalisation d'une tab et d'un carousel 
 
